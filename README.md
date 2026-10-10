@@ -19,3 +19,13 @@ Marketing and privacy policy pages for **World of Tripeaks**.
 | `index.html` | Marketing landing page |
 | `privacy.html` | Privacy policy (required by App Store) |
 | `_config.yml` | Jekyll title |
+
+## Kanton-Quiz
+
+Pages for Kanton-Quiz live under `cantonquiz/`:
+
+- **Marketing:** https://flyingpat.github.io/cantonquiz/
+- **Privacy Policy:** https://flyingpat.github.io/cantonquiz/privacy
+- **Support:** https://flyingpat.github.io/cantonquiz/support
+
+`app-ads.txt` at the root already covers its AdMob publisher ID.
